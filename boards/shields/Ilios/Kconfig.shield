@@ -1,0 +1,5 @@
+config SHIELD_Ilios_LEFT
+    def_bool $(shields_list_contains,Ilios_left)
+
+config SHIELD_Ilios_RIGHT
+    def_bool $(shields_list_contains,Ilios_right)

@@ -1,0 +1,15 @@
+file_format: "1"
+id: Ilios
+name: Ilios
+type: shield
+url: https://abehiroshi.la.coocan.jp/
+requires:
+  - Xiao_nRF52840
+exposes:
+  - None
+features:
+  - keys
+  - encoder
+siblings:
+  - Ilios_left
+  - Ilios_right

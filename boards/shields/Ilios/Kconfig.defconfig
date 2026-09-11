@@ -1,0 +1,16 @@
+if SHIELD_Ilios_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "Ilios"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+if SHIELD_Iliod_LEFT || SHIELD_Iliod_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif
