@@ -10,7 +10,7 @@
                 &kp 1    &kp 2    &kp 3    &kp 4    &kp 5    &kp 6
                 &kp q    &kp w    &kp e    &kp r    &kp t    &kp y
                 &kp a    &kp s    &kp d    &kp f    &kp g    &kp h
-                &kp z    &kp x    &kp c    &kp v    &kp b    &kp n
+                         &kp x    &kp c    &kp v    &kp b
             >;
         };
     };
