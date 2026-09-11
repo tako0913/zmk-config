@@ -1,4 +1,4 @@
-#include "my_keyboard.dtsi"
+#include "Ilios.dtsi"
 
 &default_transform {
     col-offset = <3>;

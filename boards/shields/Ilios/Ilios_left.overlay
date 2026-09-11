@@ -1,4 +1,4 @@
-#include "my_keyboard.dtsi"
+#include "Ilios.dtsi"
 
 &kscan0 {
     col-gpios
