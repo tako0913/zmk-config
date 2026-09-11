@@ -18,3 +18,8 @@
 #     artifact-name: corne_left_with_studio
 #
 ---
+include:
+  - board: seeeduino_xiao_ble
+    shield: Ilios_left
+  - board: seeeduino_xiao_ble
+    shield: Ilios_right
