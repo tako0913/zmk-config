@@ -8,8 +8,8 @@
 
         default_layer { // Layer 0
             bindings = <
-                &bt BT_SEL 0   &kp N2   &kp N3   &kp N4   &kp N5   &kp N6
-                &kp Q    &kp W    &kp E    &kp R    &kp T    &kp Y
+                &bt BT_CLR   &bt BT_PRV   &bt BT_NXT   &kp N4   &kp N5   &kp N6
+                &bt BT_SEL 0    &bt BT_SEL 1    &bt BT_SEL 2    &kp R    &kp T    &kp Y
                 &kp A    &kp S    &kp D    &kp F    &kp G    &kp H
                          &kp X    &kp C    &kp V    &kp B
             >;
